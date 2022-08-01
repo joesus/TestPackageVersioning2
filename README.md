@@ -1,1 +1,3 @@
-# TestPackageVersioning2
+# MyLibrary
+
+A description of this package.
